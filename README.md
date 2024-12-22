@@ -69,7 +69,7 @@ Hamoksha_LCD_Animation is a creative LCD animation project built with the ATmega
 
 ## Repository
 
-The source code and related files are hosted in this repository: [Hamoksha_LCD_Animation](https://github.com/YourUsername/Hamoksha_LCD_Animation).
+The source code and related files are hosted in this repository: [Hamoksha_LCD_Animation](https://github.com/MohamedAbdElMoaty1/Hamoksha_LCD_Animation).
 
 ---
 
